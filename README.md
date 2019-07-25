@@ -23,7 +23,7 @@ The following are a few snaps of how the WebApp looks like:
 
 
 
-**Adding tasks with their Priority :**
+**ToDo-List IOS Application :**
 
 ![ToDo%20List%20IOS%20APP%20icon](https://github.com/pandyabhavik2494/Screenshots/blob/master/ToDo%20List%20IOS%20APP%20icon.png)
 
